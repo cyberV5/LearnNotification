@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_normal_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/normal" />
+
+    <Button
+        android:id="@+id/bt_bigimage_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/bigimage" />
+
+    <Button
+        android:id="@+id/bt_multiline_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/multiline" />
+
+    <Button
+        android:id="@+id/bt_progress_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/progress" />
+
+    <Button
+        android:id="@+id/bt_custom_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/custom" />
+</LinearLayout>

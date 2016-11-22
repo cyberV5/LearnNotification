@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnNotification</string>
+    <string name="normal">普通视图的Notification</string>
+    <string name="bigimage">大图片的Notification</string>
+    <string name="multiline">多行文字的Notification</string>
+    <string name="progress">显示进度条的Notification</string>
+    <string name="custom">自定义的Notification</string>
+</resources>
